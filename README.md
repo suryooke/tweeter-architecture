@@ -10,7 +10,7 @@
 
 ## High Level Design ##
 <p>
-  <img src="high-level-design.png">
+  <img src="high-level-diagram.png">
 </p>
 
 - Application Server
