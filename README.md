@@ -8,7 +8,7 @@
   - 20 bio tweet read / day
   - Tweet contains Text, Images or Videos
 
-# High Level Design
+## High Level Design ##
 <p>
   <img src="high-level-design.png">
 </p>
